@@ -1,1 +1,2 @@
 # SecondProject-Kritskiy
+Krickij Igor
